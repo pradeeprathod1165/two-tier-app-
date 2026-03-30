@@ -16,6 +16,8 @@
 ```bash
 make build
 make run
+```
 
-## Acess
+
+## 🌐 Access
 http://localhost:5000
